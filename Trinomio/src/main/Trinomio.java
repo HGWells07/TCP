@@ -8,8 +8,14 @@ package main;
 import vista.Entrada;
 
 /**
- *
- * @author Alumno
+ * <h1>Coche</h1>
+ * 
+ * <p>La aplicación de Java Swing: TCP calcula el trinomio cuadrado perfecto
+ * de un binomio al cuadrado</p>
+ * 
+ * @author Carlos Eduardo González Anguiano
+ * @version 1.0.0
+ * @since 01-09-2017
  */
 public class Trinomio {
 
