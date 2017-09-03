@@ -14,6 +14,7 @@ import vista.Entrada;
  * de un binomio al cuadrado</p>
  * 
  * @author Carlos Eduardo González Anguiano
+ * @author Saúl Fernando González Domínguez
  * @version 1.0.0
  * @since 01-09-2017
  */
